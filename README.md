@@ -9,17 +9,10 @@
 [![Issues][issues-shield]][issues-url]
 
 </div>
-<!-- [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
-
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/dr413677671/LSTM-stock-price-prediction">
     <img src="docs/logo.png" alt="Logo" >
-    <!-- width="206.25" height="131.25" -->
   </a>
 
   <h3 align="center">LSTM-stock-price-prediction</h3>
@@ -117,8 +110,8 @@ LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr4
 
 ### Prerequisites
 
-1) Clone repo.
-* git
+> Clone repo.
+
   ```sh
   git clone https://github.com/dr413677671/LSTM-stock-price-prediction.git
   ```
@@ -131,16 +124,19 @@ LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr4
 
 ### Usage
 
-Prepare raw data in csv format. 
+> Prepare raw data in csv format. 
 
-Run relervant jupyter notebooks, and use pandas.dataframe to read raw_data.
-├── README.md
-├── docs 
-├── Regression - Signal Regression 
-├── hypertune - hyper-parameter tuning
-├── classification - Window Classification
-└── lib 
-    └── quantflow - Homemade quant framework
+> Run relervant jupyter notebooks, and use pandas.dataframe to read raw_data.
+
+    .
+    ├── README.md
+    ├── docs 
+    ├── Regression                   # Signal Regression 
+    ├── hypertune                    # Hyper-parameter tuning
+    ├── classification               # Window Classification
+    └── lib 
+        └── quantflow                # Homemade quant framework
+
 
 ## Hyper-parameter Search
 
