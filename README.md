@@ -14,7 +14,6 @@
   <a href="https://github.com/dr413677671/LSTM-stock-price-prediction">
     <img src="docs/logo.png" alt="Logo" >
   </a>
-
   <h3 align="center">LSTM-stock-price-prediction</h3>
   <p align="center">
     Stock price predicetion (classification and regression) using LSTM.
