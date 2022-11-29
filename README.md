@@ -94,11 +94,9 @@ LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr4
 
 ### Built With
 
-<!-- * [![Python][python-img]][python-url] -->
 * [![Tensorflow][Tensorflow]][Tensorflow-url]
 * [![Keras][Keras]][Keras-url]
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 
@@ -130,7 +128,6 @@ LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr4
     ├── classification               # Window Classification
     └── lib 
         └── quantflow                # Homemade quant framework 
-
 
 ## Hyper-parameter Search
 
