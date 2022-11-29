@@ -66,9 +66,9 @@
 
 ## About The Project
 
-Stock price predicetion (classification and regression) using LSTM. Integrated with another homemade light-weight [quant framework](https://github.com/dr413677671/Quantflow). Support Sliding windows, hyper-parameter search, backtesting, Reversing Trade and etc. 
+Stock price predicetion (classification and regression) using LSTM. Integrated with another homemade light-weight [quant framework](https://github.com/dr413677671/Quantflow-deep-learning-quant-framework). Support Sliding windows, hyper-parameter search, backtesting, Reversing Trade and etc. 
 
-LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr413677671/Quantflow)。支持滑窗, 超参数搜索, 反向对冲, 回测等。
+LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr413677671/Quantflow-deep-learning-quant-framework)。支持滑窗, 超参数搜索, 反向对冲, 回测等。
 
 ## Features:
 - [x] Model
@@ -133,7 +133,7 @@ LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr4
     ├── hypertune                    # Hyper-parameter tuning
     ├── classification               # Window Classification
     └── lib 
-        └── quantflow                # Homemade quant framework
+        └── quantflow                # Homemade quant framework 
 
 
 ## Hyper-parameter Search
