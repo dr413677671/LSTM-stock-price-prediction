@@ -1,0 +1,7 @@
+Tensorflow
+Keras
+kerastuner
+seaborn
+pandas
+scipy
+scikit-learn
