@@ -92,15 +92,11 @@ LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr4
     - [x] focal_loss
     - [x] class_weighed_sampling 分类权重采样 (抑制类别不均衡)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 <!-- * [![Python][python-img]][python-url] -->
 * [![Tensorflow][Tensorflow]][Tensorflow-url]
 * [![Keras][Keras]][Keras-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -154,7 +150,6 @@ LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr4
 <img src='./docs/result_classification.png' width=450 height=372>
 </div>
 
-<!-- CONTACT -->
 ## Contact
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' margin='10px' height='40'>](https://github.com/https://github.com/dr413677671) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@randuan9718/videos) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg' alt='zhihu' height='40'>](https://www.zhihu.com/people/kumonoue)  
