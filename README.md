@@ -95,7 +95,6 @@ LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr4
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-<br>
 
 <!-- * [![Python][python-img]][python-url] -->
 * [![Tensorflow][Tensorflow]][Tensorflow-url]
@@ -114,7 +113,7 @@ LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr4
   ```sh
   git clone https://github.com/dr413677671/LSTM-stock-price-prediction.git
   ```
-
+  
 ### Installation
 
   ```sh
@@ -142,31 +141,25 @@ LSTM股票价格预测，调用了另一个[自制框架](https://github.com/dr4
 <div align=left>
 <img src='./docs/grid-search.png' width=372 height=372>
 </div>
-<br>
 
 ## Classification
 
 <div align=left>
 <img src='./docs/result_classification.png' width=450 height=372>
 </div>
-<br>
 
 ## Regression
 
 <div align=left>
 <img src='./docs/result_classification.png' width=450 height=372>
 </div>
-<br>
 
 <!-- CONTACT -->
 ## Contact
-<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' margin='10px' height='40'>](https://github.com/https://github.com/dr413677671) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@randuan9718/videos) &nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg' alt='zhihu' height='40'>](https://www.zhihu.com/people/kumonoue)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -176,7 +169,6 @@ Based on these brilliant repos:
 * Logo genetrared by [Stable-Diffusion](https://github.com/CompVis/stable-diffusion)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
